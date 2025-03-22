@@ -3,4 +3,4 @@ My index for all the Geoguessr alternatives made over the years. Feel feel to do
 # [Conclusion-Mountain](https://www.reddit.com/user/Conclusion-Mountain/)
 - [GeoHunt](https://geohunt.vercel.app/)/[Github](https://github.com/vishdadhich092004/geohunt) Geoguessr alternative that provides a localized treasure-hunting experience within cities. Published on December 24, 2024
 # [Worldguessr.com.im](https://worldguessr.com.im/)
-- [WorldGuessr](https://www.worldguessr.com/) Free Geoguessr alternative with unlimited rounds and fun multiplayer modes.
+- [WorldGuessr](https://www.worldguessr.com/)/[Github](https://github.com/codergautam/worldguessr) Free Geoguessr alternative with unlimited rounds and fun multiplayer modes. Published on April 15, 2024
