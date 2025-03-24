@@ -10,3 +10,5 @@ My index for all the Geoguessr alternatives made over the years. Feel feel to do
 - [WHERE AM I?](https://www.wuri.ai/)/[Reddit](https://www.reddit.com/r/geoguessr/comments/ilkyql/check_out_my_free_geoguessr_alternative_less/) Free, but seemingly WIP Geoguessr alternative Published on September 3, 2020
 # [paul_mcb](https://x.com/paul_mcb)
 - [City Guesser](https://virtualvacation.us/guess)/[Kofi](https://ko-fi.com/cityguesser) Geoguessr spinoff featuring real video submissions. Published on August 13, 2020
+# [GuessWhereYouAreCom](https://www.reddit.com/user/GuessWhereYouAreCom/)
+- - [Guess Where You Are](https://guesswhereyouare.com/)/[2 (FreeGuessr)](https://freeguessr.com)/[Reddit](https://www.reddit.com/r/freegames/comments/1jhjtpp/freeguessrcom_free_geoguessr_alternative_without/) Free GeoGuessr Alternative Without Daily Limits and Ads. Published on November 29, 2024
