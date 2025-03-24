@@ -7,7 +7,7 @@ My index for all the Geoguessr alternatives made over the years. Feel feel to do
 # [benlikescode](https://github.com/benlikescode)
 - [GeoHub](https://www.geohub.gg/)/[Github](https://github.com/benlikescode/geohub) Free, open source Geoguessr alternative. Published on January 10, 2023
 # u/vVv_Rochala (Account suspended)
-- [WHERE AM I?](https://www.wuri.ai/)/[Reddit](https://www.reddit.com/r/geoguessr/comments/ilkyql/check_out_my_free_geoguessr_alternative_less/) Free Geoguessr alternative Published on September 3, 2020
+- [WHERE AM I?](https://www.wuri.ai/)/[Reddit](https://www.reddit.com/r/geoguessr/comments/ilkyql/check_out_my_free_geoguessr_alternative_less/) Free Geoguessr alternative. Published on September 3, 2020
 # [paul_mcb](https://x.com/paul_mcb)
 - [City Guesser](https://virtualvacation.us/guess)/[Kofi](https://ko-fi.com/cityguesser) Geoguessr spinoff featuring real video submissions. Published on August 13, 2020
 # [GuessWhereYouAreCom](https://www.reddit.com/user/GuessWhereYouAreCom/)
