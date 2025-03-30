@@ -14,3 +14,5 @@ My index for all the Geoguessr alternatives made over the years. Feel feel to do
 - [Guess Where You Are](https://guesswhereyouare.com/)/[2 (FreeGuessr)](https://freeguessr.com)/[Reddit](https://www.reddit.com/r/freegames/comments/1jhjtpp/freeguessrcom_free_geoguessr_alternative_without/) Free GeoGuessr Alternative Without Daily Limits and Ads. Published on November 29, 2024
 # [komcdo](https://www.reddit.com/user/komcdo/)
 - [Worldle](https://worldledaily.com/) Free and unlimited Geoguessr spinoff. Published on February 1, 2024
+# [u/Enough-Possession605](https://www.reddit.com/user/Enough-Possession605/)
+- [Minimapperz](https://minimapperz.com/) GeoGuessr-inspired game where you guess the video game's name and the displayed location on the minimap. Published on March 29, 2025
