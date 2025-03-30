@@ -9,7 +9,7 @@ My index for all the Geoguessr alternatives made over the years. Feel feel to do
 # u/vVv_Rochala (Account suspended)
 - [WHERE AM I?](https://www.wuri.ai/)/[Reddit](https://www.reddit.com/r/geoguessr/comments/ilkyql/check_out_my_free_geoguessr_alternative_less/) Free Geoguessr alternative. Published on September 3, 2020
 # [paul_mcb](https://x.com/paul_mcb)
-- [City Guesser](https://virtualvacation.us/guess)/[Kofi](https://ko-fi.com/cityguesser) Geoguessr spinoff featuring real video submissions. Published on August 13, 2020
+- [City Guesser](https://virtualvacation.us/)/[Kofi](https://ko-fi.com/cityguesser) Geoguessr spinoff featuring real video submissions. Published on August 13, 2020
 # [u/GuessWhereYouAreCom](https://www.reddit.com/user/GuessWhereYouAreCom/)
 - [Guess Where You Are](https://guesswhereyouare.com/)/[2 (FreeGuessr)](https://freeguessr.com)/[Reddit](https://www.reddit.com/r/freegames/comments/1jhjtpp/freeguessrcom_free_geoguessr_alternative_without/) Free GeoGuessr Alternative Without Daily Limits and Ads. Published on November 29, 2024
 # [u/komcdo](https://www.reddit.com/user/komcdo/)
@@ -20,3 +20,5 @@ My index for all the Geoguessr alternatives made over the years. Feel feel to do
 - [Where Am I?](https://whereamigame.app/)/[Android](https://play.google.com/store/apps/details?id=com.adex77.WhereAmI)/[iOS](https://apps.apple.com/us/app/where-am-i-geoguess-game/id6657987209) Free mobile GeoGuessr alternative where you guess locations based on real street walk videos. Published on March 23, 2025
 # [u/PoseidonCoder](https://www.reddit.com/user/PoseidonCoder/)
 - [GeoUltimate](https://www.geoultimate.com/) Free Geoguessr alternative with ChatGPT Map making. Published on July 1, 2024
+# Eduard But
+- [Geotastic](https://geotastic.net/)/[Wikipedia](https://pt.wikipedia.org/wiki/Geotastic)/[Twitter](https://x.com/geotastic_game)/[Instagram](https://www.instagram.com/officialgeotastic/)/[Youtube](https://www.youtube.com/watch?v=4EU59_3cBl8) Free Geoguessr alternative utilizing Google Street View.​ Published on October 19, 2020
