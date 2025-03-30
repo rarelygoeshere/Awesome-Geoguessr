@@ -24,3 +24,6 @@ My index for all the Geoguessr alternatives made over the years. Feel feel to do
 - [Geotastic](https://geotastic.net/)/[Wikipedia](https://pt.wikipedia.org/wiki/Geotastic)/[Twitter](https://x.com/geotastic_game)/[Instagram](https://www.instagram.com/officialgeotastic/)/[Youtube](https://www.youtube.com/watch?v=4EU59_3cBl8) Free Geoguessr alternative utilizing Google Street View.​ Published on October 19, 2020
 # [Gus Owen](https://x.com/gusowennn)
 - [TimeGuessr](https://timeguessr.com/) Free Geoguessr spinoff where you guess both the location and time period of historical photographs. Published on March 05, 2023
+# [PaulPlay](https://paulplay.studio/)/[Bluesky](https://bsky.app/profile/paulplay.bsky.social)
+- [AutoGuessr](https://autoguessr.com/)/[Article](https://ruthlesstalent.com/cars-that-were-discontinued/) Free Geoguessr spinoff where you guess car prices from car offerings from vendors all across the United States. Published on March 26, 2025
+- [OpenGuessr](https://openguessr.com/)/[Reddit](https://www.reddit.com/r/OpenGuessr/) Free, unlimited-play GeoGuessr alternative with multiplayer support that utilizes Google Maps Street View. Published on January 31, 2023
