@@ -22,3 +22,5 @@ My index for all the Geoguessr alternatives made over the years. Feel feel to do
 - [GeoUltimate](https://www.geoultimate.com/) Free Geoguessr alternative with ChatGPT Map making. Published on July 1, 2024
 # Eduard But
 - [Geotastic](https://geotastic.net/)/[Wikipedia](https://pt.wikipedia.org/wiki/Geotastic)/[Twitter](https://x.com/geotastic_game)/[Instagram](https://www.instagram.com/officialgeotastic/)/[Youtube](https://www.youtube.com/watch?v=4EU59_3cBl8) Free Geoguessr alternative utilizing Google Street View.​ Published on October 19, 2020
+# [Gus Owen](https://x.com/gusowennn)
+- [TimeGuessr](https://timeguessr.com/) Free Geoguessr spinoff where you guess both the location and time period of historical photographs. Published on March 05, 2023
