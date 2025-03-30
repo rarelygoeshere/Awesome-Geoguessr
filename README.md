@@ -18,3 +18,5 @@ My index for all the Geoguessr alternatives made over the years. Feel feel to do
 - [Minimapperz](https://minimapperz.com/) GeoGuessr-inspired game where you guess the video game's name and the displayed location on the minimap. Published on March 29, 2025
 # [u/Adex77](https://www.reddit.com/user/Adex77/)
 - [Where Am I?](https://whereamigame.app/)/[Android](https://play.google.com/store/apps/details?id=com.adex77.WhereAmI)/[iOS](https://apps.apple.com/us/app/where-am-i-geoguess-game/id6657987209) Free mobile GeoGuessr alternative where you guess locations based on real street walk videos. Published on March 23, 2025
+# [u/PoseidonCoder](https://www.reddit.com/user/PoseidonCoder/)
+- [GeoUltimate](https://www.geoultimate.com/) Free Geoguessr alternative with ChatGPT Map making. Published on July 1, 2024
