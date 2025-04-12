@@ -41,4 +41,5 @@ My index for all the Geoguessr alternatives made over the years. Feel feel to do
 - [OpenGuessr](https://openguessr.com/)/[Reddit](https://www.reddit.com/r/OpenGuessr/) Free, unlimited-play GeoGuessr alternative with multiplayer support that utilizes Google Maps Street View. Published on January 31, 2023
 
 # Discord user FoodGuessrDev
-- [FoodGuessr](https://www.foodguessr.com/) Guess the country based on food images.
+- [FoodGuessr](https://www.foodguessr.com/)/[BackLoggd](https://backloggd.com/games/foodguessr/) Guess the country based on food images. Published on December 31, 2023
+
