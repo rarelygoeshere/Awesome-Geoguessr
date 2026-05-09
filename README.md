@@ -1,3 +1,4 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Awesome-Geoguessr
 My index for all the Geoguessr alternatives made over the years. Feel feel to do a PR!
 # [u/Conclusion-Mountain](https://www.reddit.com/user/Conclusion-Mountain/)
