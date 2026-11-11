@@ -44,3 +44,5 @@ My index for all the Geoguessr alternatives made over the years. Feel feel to do
 # Discord user FoodGuessrDev
 - [FoodGuessr](https://www.foodguessr.com/)/[BackLoggd](https://backloggd.com/games/foodguessr/) Guess the country based on food images. Published on December 31, 2023
 
+# [DailyGeo](https://dailygeo.today/play/country?utm_source=awesome_geoguessr&utm_medium=referral&utm_campaign=2026-10-alternatives-list)
+- [DailyGeo](https://dailygeo.today/play/country?utm_source=awesome_geoguessr&utm_medium=referral&utm_campaign=2026-10-alternatives-list) Free daily geography puzzle: identify a country from a street-view image, then use distance and terrain hints to narrow the answer. New country, city, and landmark puzzles each day; no signup required.
